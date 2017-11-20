@@ -1,2 +1,2 @@
 all: 
-	g++ main.cpp -o out.exec -I -std=c++11
+	g++ main.cpp -o coll.exec -I -std=c++11
